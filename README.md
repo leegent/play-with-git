@@ -1,3 +1,3 @@
-#Play with Git
+# Play with Git
 
 Git is interesting!
